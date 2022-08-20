@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**aas8/aas8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="400" src="https://c.tenor.com/m1Mr-khUDVgAAAAC/anime-hacking.gif" />
 
-Here are some ideas to get you started:
+My name is Adriana, I'm a software and testing engineer from Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my bachelor's degree
+- 🌱 I’m currently learning automation
+- 👯 I’m looking to collaborate on software testing
+- 🤔 I’m looking for help with Java
+- 💬 Ask me about C#
+- 📫 How to reach me: aas8@cin.ufpe.br
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I have a bachelor's degree in gastronomy
